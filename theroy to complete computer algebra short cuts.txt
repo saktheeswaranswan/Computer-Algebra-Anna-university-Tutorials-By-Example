@@ -1,0 +1,18 @@
+pde heat and wave and bar and string
+reccurance
+
+residue integral
+
+and contour method big 
+
+control theory complex and conformasl by contoru mapping 
+
+root locus and other parts 
+
+and pid
+stability 
+localisation
+
+accuracy
+
+compensation left
